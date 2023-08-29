@@ -7,3 +7,6 @@ Nomes:
 
 Como Rodar:
 python -m http.server 
+
+GitHub Pages:
+https://beatrizbzack.github.io/desafioCSS-gdc/
